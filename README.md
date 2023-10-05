@@ -1,14 +1,14 @@
-[#Hi, I'm Nayan Bhatt](https://github.com/freaky4wrld#-hi-im--nayan-bhatt)
+#[Hi, I'm Nayan Bhatt](https://github.com/freaky4wrld#-hi-im--nayan-bhatt)
 <hr>
 Glad you visited my github repos
 
-[###About Me](https://github.com/freaky4wrld#about-me)
+###[About Me](https://github.com/freaky4wrld#about-me)
 
-🌱 I’m an emerging full-stack developer trying to specialize in React, Express, Node, Flask, Python
-👩🏻‍💻 Currently volunteering at [HackForLA](https://www.hackforla.org) as a frontend developer
-🚀 Looking for frontend/ full-stack software engineering position.
+- 🌱 I’m an emerging full-stack developer trying to specialize in React, Express, Node, Flask, Python
+- 👩🏻‍💻 Currently volunteering at [HackForLA](https://www.hackforla.org) as a frontend developer
+- 🚀 Looking for frontend/ full-stack software engineering position.
 
- [###Learning Tech Stack](https://github.com/freaky4wrld#tech-stack)
+ ###[Learning Tech Stack](https://github.com/freaky4wrld#tech-stack)
 
  - Language: Javascript, Python, HTML, CSS, Bash
  - Frontend: React, Bootstrap, SASS, Tailwind-CSS, JQuery
@@ -16,7 +16,7 @@ Glad you visited my github repos
  - Database: MySQL
  - Version Control System: Git and Github
 
-[###Other Skills](https://github.com/freaky4wrld#other-skills)
+###[Other Skills](https://github.com/freaky4wrld#other-skills)
 
 - Canva
 - Adobe Photoshop
